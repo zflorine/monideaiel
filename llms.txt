@@ -1,0 +1,17 @@
+# Mon idéaiel
+
+> Quiz web gratuit et humoristique en 10 dilemmes (3 minutes) pour clarifier les qualités que l'on cherche chez son partenaire idéal. Chaque qualité choisie est présentée avec son revers. Disponible en français, anglais et chinois simplifié. Aucune inscription, aucune donnée enregistrée.
+
+## Le site
+- [Mon idéaiel](https://zflorine.github.io/monideaiel/): le quiz complet, sur une seule page.
+
+## Faits essentiels
+- Nom : « Mon idéaiel » = « idéal » + « aïe » (l'idéal, avec les « aïe » inclus).
+- Principe : 10 cartes, chacune oppose deux qualités (ex. Drôle ou sérieux) ; on en choisit une, la carte se retourne et révèle son revers ; on peut assumer (Deal), nuancer (Euh, moyennement) ou finalement prendre l'opposé.
+- Résultat : un bilan de l'idéal choisi, défauts inclus.
+- Public : toute personne qui cherche un homme ou une femme ; les textes s'accordent au choix « L'homme idéal » / « La femme idéale ».
+- Les 10 dilemmes : Spontané ou organisé ; Fêtard ou casanier ; Drôle ou sérieux ; Ambitieux ou zen ; Câlin ou indépendant ; Généreux ou économe ; Franc ou diplomate ; Extraverti ou réservé ; Sportif ou sédentaire ; Décideur ou conciliant.
+- Coût : gratuit. Durée : environ 3 minutes.
+
+## English summary
+Mon idéaiel is a free, funny web quiz: 10 dilemmas that help you define your ideal partner, with the flip side of every quality you choose. 3 minutes, no sign-up, French / English / Simplified Chinese. The 10 dilemmas: Spontaneous or organized; Party animal or homebody; Funny or serious; Ambitious or zen; Cuddly or independent; Generous or frugal; Blunt or diplomatic; Outgoing or reserved; Sporty or sedentary; Decisive or easygoing.
